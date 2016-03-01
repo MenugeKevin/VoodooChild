@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: b93dd95d8a093c44e9b57ea623d7e4d6
+timeCreated: 1454163701
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ARTUR_RIG_0003:ARTUR_DEF:ARM_LEFT
+    100004: ARTUR_RIG_0003:ARTUR_DEF:ARM_RIGHT
+    100006: ARTUR_RIG_0003:ARTUR_DEF:CLOTHES
+    100008: ARTUR_RIG_0003:ARTUR_DEF:HEAD
+    100010: ARTUR_RIG_0003:BRAS_DROIT
+    100012: ARTUR_RIG_0003:BRAS_GAUCHE
+    100014: ARTUR_RIG_0003:COLONNE_MID
+    100016: ARTUR_RIG_0003:COU
+    100018: ARTUR_RIG_0003:COUDE_DROIT
+    100020: ARTUR_RIG_0003:COUDE_GAUCHE
+    100022: ARTUR_RIG_0003:GENOUX_DROIT
+    100024: ARTUR_RIG_0003:GENOUX_GAUCHE
+    100026: ARTUR_RIG_0003:HANCHE_DROIT
+    100028: ARTUR_RIG_0003:HANCHE_GAUCHE
+    100030: ARTUR_RIG_0003:PELVIS
+    100032: ARTUR_RIG_0003:POIGNET_DROIT
+    100034: ARTUR_RIG_0003:POIGNET_GAUCHE
+    400000: //RootNode
+    400002: ARTUR_RIG_0003:ARTUR_DEF:ARM_LEFT
+    400004: ARTUR_RIG_0003:ARTUR_DEF:ARM_RIGHT
+    400006: ARTUR_RIG_0003:ARTUR_DEF:CLOTHES
+    400008: ARTUR_RIG_0003:ARTUR_DEF:HEAD
+    400010: ARTUR_RIG_0003:BRAS_DROIT
+    400012: ARTUR_RIG_0003:BRAS_GAUCHE
+    400014: ARTUR_RIG_0003:COLONNE_MID
+    400016: ARTUR_RIG_0003:COU
+    400018: ARTUR_RIG_0003:COUDE_DROIT
+    400020: ARTUR_RIG_0003:COUDE_GAUCHE
+    400022: ARTUR_RIG_0003:GENOUX_DROIT
+    400024: ARTUR_RIG_0003:GENOUX_GAUCHE
+    400026: ARTUR_RIG_0003:HANCHE_DROIT
+    400028: ARTUR_RIG_0003:HANCHE_GAUCHE
+    400030: ARTUR_RIG_0003:PELVIS
+    400032: ARTUR_RIG_0003:POIGNET_DROIT
+    400034: ARTUR_RIG_0003:POIGNET_GAUCHE
+    4300000: ARTUR_RIG_0003:ARTUR_DEF:HEAD
+    4300002: ARTUR_RIG_0003:ARTUR_DEF:CLOTHES
+    4300004: ARTUR_RIG_0003:ARTUR_DEF:ARM_RIGHT
+    4300006: ARTUR_RIG_0003:ARTUR_DEF:ARM_LEFT
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ARTUR_RIG_0003:ARTUR_DEF:ARM_LEFT
+    13700002: ARTUR_RIG_0003:ARTUR_DEF:ARM_RIGHT
+    13700004: ARTUR_RIG_0003:ARTUR_DEF:CLOTHES
+    13700006: ARTUR_RIG_0003:ARTUR_DEF:HEAD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ARTUR_RIG_0003:ARTUR_DEF:ARM_LEFT
+        weight: 1
+      - path: ARTUR_RIG_0003:ARTUR_DEF:ARM_RIGHT
+        weight: 1
+      - path: ARTUR_RIG_0003:ARTUR_DEF:CLOTHES
+        weight: 1
+      - path: ARTUR_RIG_0003:ARTUR_DEF:HEAD
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:COLONNE_MID
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:COLONNE_MID/ARTUR_RIG_0003:BRAS_DROIT
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:COLONNE_MID/ARTUR_RIG_0003:BRAS_DROIT/ARTUR_RIG_0003:COUDE_DROIT
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:COLONNE_MID/ARTUR_RIG_0003:BRAS_DROIT/ARTUR_RIG_0003:COUDE_DROIT/ARTUR_RIG_0003:POIGNET_DROIT
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:COLONNE_MID/ARTUR_RIG_0003:BRAS_GAUCHE
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:COLONNE_MID/ARTUR_RIG_0003:BRAS_GAUCHE/ARTUR_RIG_0003:COUDE_GAUCHE
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:COLONNE_MID/ARTUR_RIG_0003:BRAS_GAUCHE/ARTUR_RIG_0003:COUDE_GAUCHE/ARTUR_RIG_0003:POIGNET_GAUCHE
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:COLONNE_MID/ARTUR_RIG_0003:COU
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:HANCHE_DROIT
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:HANCHE_DROIT/ARTUR_RIG_0003:GENOUX_DROIT
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:HANCHE_GAUCHE
+        weight: 1
+      - path: ARTUR_RIG_0003:PELVIS/ARTUR_RIG_0003:HANCHE_GAUCHE/ARTUR_RIG_0003:GENOUX_GAUCHE
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

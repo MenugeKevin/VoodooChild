@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: d876bc3592d9e5d428b07c1f97218efc
+timeCreated: 1454238338
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: armor_RIG:armor_MESH:Bras_D
+    100004: armor_RIG:armor_MESH:Bras_G
+    100006: armor_RIG:armor_MESH:Corps
+    100008: armor_RIG:armor_MESH:Jambe_D_1
+    100010: armor_RIG:armor_MESH:Jambe_D_2
+    100012: armor_RIG:armor_MESH:Jambe_G_1
+    100014: armor_RIG:armor_MESH:Jambe_G_2
+    100016: armor_RIG:armor_MESH:Main_D
+    100018: armor_RIG:armor_MESH:Main_G
+    100020: armor_RIG:armor_MESH:PROPS_Armor_Mesh
+    100022: armor_RIG:armor_MESH:Props_Armor_Mesh_All
+    100024: armor_RIG:armor_MESH:PROPS_Epee
+    100026: armor_RIG:armor_MESH:Tete
+    100028: armor_RIG:Sword_1
+    100030: armor_RIG:Sword_2
+    100032: armor_RIG:Sword_3
+    100034: armor_RIG:Sword_4
+    400000: //RootNode
+    400002: armor_RIG:armor_MESH:Bras_D
+    400004: armor_RIG:armor_MESH:Bras_G
+    400006: armor_RIG:armor_MESH:Corps
+    400008: armor_RIG:armor_MESH:Jambe_D_1
+    400010: armor_RIG:armor_MESH:Jambe_D_2
+    400012: armor_RIG:armor_MESH:Jambe_G_1
+    400014: armor_RIG:armor_MESH:Jambe_G_2
+    400016: armor_RIG:armor_MESH:Main_D
+    400018: armor_RIG:armor_MESH:Main_G
+    400020: armor_RIG:armor_MESH:PROPS_Armor_Mesh
+    400022: armor_RIG:armor_MESH:Props_Armor_Mesh_All
+    400024: armor_RIG:armor_MESH:PROPS_Epee
+    400026: armor_RIG:armor_MESH:Tete
+    400028: armor_RIG:Sword_1
+    400030: armor_RIG:Sword_2
+    400032: armor_RIG:Sword_3
+    400034: armor_RIG:Sword_4
+    2300000: armor_RIG:armor_MESH:Bras_D
+    2300002: armor_RIG:armor_MESH:Bras_G
+    2300004: armor_RIG:armor_MESH:Corps
+    2300006: armor_RIG:armor_MESH:Jambe_D_1
+    2300008: armor_RIG:armor_MESH:Jambe_D_2
+    2300010: armor_RIG:armor_MESH:Jambe_G_1
+    2300012: armor_RIG:armor_MESH:Jambe_G_2
+    2300014: armor_RIG:armor_MESH:Main_D
+    2300016: armor_RIG:armor_MESH:Main_G
+    2300018: armor_RIG:armor_MESH:Tete
+    3300000: armor_RIG:armor_MESH:Bras_D
+    3300002: armor_RIG:armor_MESH:Bras_G
+    3300004: armor_RIG:armor_MESH:Corps
+    3300006: armor_RIG:armor_MESH:Jambe_D_1
+    3300008: armor_RIG:armor_MESH:Jambe_D_2
+    3300010: armor_RIG:armor_MESH:Jambe_G_1
+    3300012: armor_RIG:armor_MESH:Jambe_G_2
+    3300014: armor_RIG:armor_MESH:Main_D
+    3300016: armor_RIG:armor_MESH:Main_G
+    3300018: armor_RIG:armor_MESH:Tete
+    4300000: armor_RIG:armor_MESH:PROPS_Epee
+    4300002: armor_RIG:armor_MESH:Jambe_D_2
+    4300004: armor_RIG:armor_MESH:Jambe_D_1
+    4300006: armor_RIG:armor_MESH:Main_D
+    4300008: armor_RIG:armor_MESH:Main_G
+    4300010: armor_RIG:armor_MESH:Jambe_G_2
+    4300012: armor_RIG:armor_MESH:Jambe_G_1
+    4300014: armor_RIG:armor_MESH:Tete
+    4300016: armor_RIG:armor_MESH:Corps
+    4300018: armor_RIG:armor_MESH:Bras_G
+    4300020: armor_RIG:armor_MESH:Bras_D
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: armor_RIG:armor_MESH:PROPS_Epee
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
